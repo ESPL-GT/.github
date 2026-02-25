@@ -29,11 +29,14 @@ At the Engineering Space Policy Laboratory (ESPL), we model the near-Earth space
 
 Research at ESPL spans a diverse range of topics across its three themes: international [coordination](https://espl.ae.gatech.edu/research/space-coordination/), [sustainability](https://espl.ae.gatech.edu/research/space-sustainability/), and [security](https://espl.ae.gatech.edu/research/space-security/) in space. From algorithmic assessments of rule-breaking in space to machine learning for pattern-of-life detection, our work leverages insights from spaceflight heritage and space policy history to advance responsible behavior in orbit. Together, our research products touch on topics as varied as space traffic coordination, rendezvous and proximity operations, orbital debris mitigation, the use of AI for space mission operations, telecommunications regulation, and space-based missile defense.
 
-| Theme | Description |
-|-------|-------------|
-| 🌐 **[Space Coordination](https://espl.ae.gatech.edu/research/space-coordination/)** | Studying how space actors coordinate behavior and develop international norms to manage an increasingly congested orbital environment |
-| ♻️ **[Space Sustainability](https://espl.ae.gatech.edu/research/space-sustainability/)** | Investigating orbital debris mitigation, long-term stewardship of orbital regimes, and data-driven approaches to sustainable spaceflight |
-| 🔒 **[Space Security](https://espl.ae.gatech.edu/research/space-security/)** | Examining how states and commercial actors respond to threats in the space domain, including space-based missile defense and dual-use technology |
+<div align="center">
+
+| 🌐 [Space Coordination](https://espl.ae.gatech.edu/research/space-coordination/) | ♻️ [Space Sustainability](https://espl.ae.gatech.edu/research/space-sustainability/) | 🔒 [Space Security](https://espl.ae.gatech.edu/research/space-security/) |
+|:---:|:---:|:---:|
+| [![Space Coordination](resources/Coordination.gif)](https://espl.ae.gatech.edu/research/space-coordination/) | [![Space Sustainability](resources/Sustainability.gif)](https://espl.ae.gatech.edu/research/space-sustainability/) | [![Space Security](resources/Security.gif)](https://espl.ae.gatech.edu/research/space-security/) |
+| Studying how space actors coordinate behavior and develop international norms to manage an increasingly congested orbital environment | Investigating orbital debris mitigation, long-term stewardship of orbital regimes, and data-driven approaches to sustainable spaceflight | Examining how states and commercial actors respond to threats in the space domain, including space-based missile defense and dual-use technology |
+
+</div>
 
 > 📖 **[Explore all of ESPL's research areas →](https://espl.ae.gatech.edu/research/)**
 
