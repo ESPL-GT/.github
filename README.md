@@ -55,15 +55,6 @@ Stay informed on ESPL's latest publications, events, and media appearances.
 
 ---
 
-## 🏛️ Institutional Home
-
-ESPL is proudly housed at the **Georgia Institute of Technology**, jointly within:
-
-- 🛩️ **[Daniel Guggenheim School of Aerospace Engineering](https://ae.gatech.edu/)**
-- 🌍 **[Sam Nunn School of International Affairs](https://inta.gatech.edu/)**
-
----
-
 <div align="center">
 
 *Engineering a more coordinated, sustainable, and secure outer space domain.*
