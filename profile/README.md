@@ -1,6 +1,3 @@
-# Engineering Space Policy Laboratory at Georgia Tech
-
-
 <div align="center">
 
 <!-- [![ESPL Website](https://img.shields.io/badge/ESPL-Website-yellow?style=for-the-badge&logo=googlechrome)](https://espl.ae.gatech.edu/) -->
