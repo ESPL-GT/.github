@@ -1,15 +1,17 @@
-# Engineering Space Policy Laboratory (ESPL)
+# Engineering Space Policy Laboratory at Georgia Tech
+
 
 <div align="center">
 
-[![ESPL Website](https://img.shields.io/badge/ESPL-Website-blue?style=for-the-badge&logo=googlechrome)](https://espl.ae.gatech.edu/)
-[![Research](https://img.shields.io/badge/Our-Research-orange?style=for-the-badge&logo=readthedocs)](https://espl.ae.gatech.edu/research/)
-[![Team](https://img.shields.io/badge/Meet-The%20Team-green?style=for-the-badge&logo=github)](https://espl.ae.gatech.edu/people/)
-[![News](https://img.shields.io/badge/Lab-News-red?style=for-the-badge&logo=rss)](https://espl.ae.gatech.edu/news/)
+<!-- [![ESPL Website](https://img.shields.io/badge/ESPL-Website-yellow?style=for-the-badge&logo=googlechrome)](https://espl.ae.gatech.edu/) -->
+[![Research](https://img.shields.io/badge/Our-Research-yellow?style=for-the-badge&logo=readthedocs)](https://espl.ae.gatech.edu/research/)
+[![Team](https://img.shields.io/badge/Meet-The%20People-yellow?style=for-the-badge&logo=google-classroom&logoColor=white)](https://espl.ae.gatech.edu/people/)
+[![News](https://img.shields.io/badge/Lab-News-yellow?style=for-the-badge&logo=rss&logoColor=white)](https://espl.ae.gatech.edu/news/) 
 
 </div>
 
----
+
+[![Space Security](resources/Homepage.gif)](https://espl.ae.gatech.edu/)
 
 ## 🚀 About the Lab
 
@@ -42,7 +44,7 @@ Research at ESPL spans a diverse range of topics across its three themes: intern
 
 ---
 
-## 👥 Meet the Team
+## 👥 Meet the People
 
 ESPL brings together researchers from aerospace engineering, international affairs, political science, and related disciplines to tackle today's most pressing space policy challenges.
 
