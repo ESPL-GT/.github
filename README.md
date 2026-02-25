@@ -25,15 +25,15 @@ Led by **Prof. Thomas González Roberts**, ESPL complements Georgia Tech's world
 
 ## 🔭 Research Areas
 
-ESPL's research spans the intersection of engineering, policy, and international relations in the space domain. Key focus areas include:
+At ESPL, we model the near-Earth space environment to contribute to world order in outer space. Using tools from observational astronomy and computational astrodynamics, we study the behavior of Earth-orbiting satellites to understand how space actors — from superpowers to start-ups — engage with systems of outer space governance. As the satellite population grows by orders of magnitude in the coming decades, our work seeks to enable data-driven rule-making that promotes coordinated, sustainable, and secure operations for generations to come.
 
-| Area | Description |
-|------|-------------|
-| 🛰️ **Space Situational Awareness** | Studying how operators track and characterize objects in orbit to support safe and sustainable spaceflight |
-| 🌐 **Space Governance & Policy** | Analyzing international frameworks, norms, and treaties that shape behavior in outer space |
-| 🔒 **Space Security** | Examining how states and commercial actors respond to threats in the space domain |
-| ♻️ **Orbital Sustainability** | Investigating debris mitigation, traffic management, and long-term stewardship of orbital regimes |
-| 🤝 **Norms & Standards** | Developing actionable guidelines for responsible behavior by space actors at all levels |
+Research at ESPL spans a diverse range of topics across its three themes. From algorithmic assessments of rule-breaking in space to machine learning for pattern-of-life detection, our work leverages insights from spaceflight heritage and space policy history to advance responsible behavior in orbit. Together, our research products touch on topics as varied as space traffic coordination, rendezvous and proximity operations, orbital debris mitigation, the use of AI for space mission operations, telecommunications regulation, and space-based missile defense.
+
+| Theme | Description |
+|-------|-------------|
+| 🌐 **[Space Coordination](https://espl.ae.gatech.edu/research/space-coordination/)** | Studying how space actors coordinate behavior and develop international norms to manage an increasingly congested orbital environment |
+| ♻️ **[Space Sustainability](https://espl.ae.gatech.edu/research/space-sustainability/)** | Investigating orbital debris mitigation, long-term stewardship of orbital regimes, and data-driven approaches to sustainable spaceflight |
+| 🔒 **[Space Security](https://espl.ae.gatech.edu/research/space-security/)** | Examining how states and commercial actors respond to threats in the space domain, including space-based missile defense and dual-use technology |
 
 > 📖 **[Explore all of ESPL's research areas →](https://espl.ae.gatech.edu/research/)**
 
